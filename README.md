@@ -56,7 +56,7 @@ exploring ai, machine learning, and big data
 ## 🎧 what i'm listening to
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/2m52vq4ptaddjed2ly9dto854">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2m52vq4ptaddjed2ly9dto854&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
