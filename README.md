@@ -27,4 +27,28 @@ exploring ai, machine learning, and big data
 ## 📫 connect with me
 - https://www.linkedin.com/in/amrithaa-ak/
 
-⭐️ *"it's a leap of faith miles, that's all it is"*
+## ⚙️ tools i use
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
+
+## 🎧 what i'm listening to
+
+<div align="center">
+  <a href="https://open.spotify.com/your-profile">
+    <img src="https://your-vercel-app.vercel.app/api/spotify" />
+  </a>
+</div>
