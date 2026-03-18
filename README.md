@@ -40,8 +40,6 @@ exploring ai, machine learning, and big data
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
@@ -59,6 +57,6 @@ exploring ai, machine learning, and big data
 
 <div align="center">
   <a href="https://open.spotify.com/user/2m52vq4ptaddjed2ly9dto854">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=2m52vq4ptaddjed2ly9dto854" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2m52vq4ptaddjed2ly9dto854&cover_image=true&theme=default" />
   </a>
 </div>
