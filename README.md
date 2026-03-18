@@ -6,7 +6,8 @@ exploring ai, machine learning, and big data
 ## 🧠 about me
 - 📊 passionate about turning data into meaningful insights  
 - 🤖 interested in AI, ML, and real-world data applications  
-- 🌌 drawn to problems that sit at the intersection of data, systems, and patterns  
+- 🌌 drawn to problems that sit at the intersection of data, systems, and patterns
+- 📖 portfolio: https://itsamrithaa.github.io/
 
 ## ⚙️ tech stack
 - **languages:** python, SQL, R, java  
