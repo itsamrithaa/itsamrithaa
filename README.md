@@ -49,6 +49,6 @@ exploring ai, machine learning, and big data
 
 <div align="center">
   <a href="https://open.spotify.com/user/2m52vq4ptaddjed2ly9dto854">
-    <img src="https://your-vercel-app.vercel.app/api/spotify" />
+    <img src="https://spotify-github-profile.vercel.app/api/view" />
   </a>
 </div>
