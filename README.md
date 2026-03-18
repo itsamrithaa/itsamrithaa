@@ -19,6 +19,11 @@ exploring ai, machine learning, and big data
 - graph-theory & network science  
 - building scalable data systems  
 
+## ☕ fun facts
+- 🍵 fueled by matcha & protein shakes  
+- 📺 probably watching *Friends* or hitting the gym  
+- ✈️ 3 continents down, 1/5 of the U.S. explored
+  
 ## 📫 connect with me
 - https://www.linkedin.com/in/amrithaa-ak/
 
