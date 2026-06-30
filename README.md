@@ -1,11 +1,11 @@
 # hi, i'm amrithaa ⋆‧°𓏲ּ𝄢
 my recent projects looks into: mechanistic interpretability, graph theory, drug discovery, quantum neural networks, ai systems design  
 
-## about me
+### about me
 - i nerd out on pretty much any niche topic that i find interesting, whether that is diffusion models or the formation of neutron stars
 - portfolio (i'm currently scraping it to make something more authentic): https://itsamrithaa.github.io/
 
-## tech stack
+### tech stack
 - **languages:** python, SQL, R, java, JavaScript  
 - **data & ml:** pandas, numpy, scikit-learn, pytorch, transformers
 - **visualization:** matplotlib, plotly, dash  
@@ -35,15 +35,15 @@ my recent projects looks into: mechanistic interpretability, graph theory, drug 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
-## ☕ fun facts
+### fun facts
 - my favorite drink used to be water before i discovered matcha 
 - probably watching *Friends* or counting my macros  
 - i've been to 3/7 continents, explored 1/5 of the U.S. (more to come)
   
-## let's yap
-- https://www.linkedin.com/in/amrithaa-ak/
+### let's yap
+- linkedin: https://www.linkedin.com/in/amrithaa-ak/
 
-## i'm listening to
+### oh and did i say i love music
 
 <p align="center">
   <a href="https://open.spotify.com/user/2m52vq4ptaddjed2ly9dto854">
