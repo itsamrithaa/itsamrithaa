@@ -1,34 +1,15 @@
-# hi, i'm amrithaa 👋
+# hi, i'm amrithaa ⋆‧°𓏲ּ𝄢
+my recent projects looks into: mechanistic interpretability, graph theory, drug discovery, quantum neural networks, ai systems design  
 
-**data analytics student**  
-exploring ai, machine learning, and big data  
+## about me
+- i nerd out on pretty much any niche topic that i find interesting, whether that is about the formation of neutron stars or  
+- portfolio (i'm currently scraping it to make something more authentic): https://itsamrithaa.github.io/
 
-## 🧠 about me
-- 📊 passionate about turning data into meaningful insights  
-- 🤖 interested in AI, ML, and real-world data applications  
-- 🌌 drawn to problems that sit at the intersection of data, systems, and patterns
-- 📖 portfolio: https://itsamrithaa.github.io/
-
-## ⚙️ tech stack
-- **languages:** python, SQL, R, java  
-- **data & ml:** pandas, numpy, scikit-learn, torch
+## tech stack
+- **languages:** python, SQL, R, java, JavaScript  
+- **data & ml:** pandas, numpy, scikit-learn, pytorch, transformers
 - **visualization:** matplotlib, plotly, dash  
-- **tools:** git, github  
-
-## 🌱 currently learning
-- advanced ML (neural networks) and statistical methods
-- graph-theory & network science  
-- building scalable data systems  
-
-## ☕ fun facts
-- 🍵 fueled by matcha & protein shakes  
-- 📺 probably watching *Friends* or hitting the gym  
-- ✈️ 3 continents down, 1/5 of the U.S. explored
-  
-## 📫 connect with me
-- https://www.linkedin.com/in/amrithaa-ak/
-
-## ⚙️ tools i use
+- **tools:** git, github
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -54,7 +35,15 @@ exploring ai, machine learning, and big data
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
-## 🎧 what i'm listening to
+## ☕ fun facts
+- my favorite drink used to be water before i discovered matcha 
+- probably watching *Friends* or counting my macros  
+- i've been to 3/7 continents, explored 1/5 of the U.S. (more to come)
+  
+## let's yap
+- https://www.linkedin.com/in/amrithaa-ak/
+
+## i'm listening to
 
 <p align="center">
   <a href="https://open.spotify.com/user/2m52vq4ptaddjed2ly9dto854">
