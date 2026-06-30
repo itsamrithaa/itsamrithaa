@@ -2,7 +2,7 @@
 my recent projects looks into: mechanistic interpretability, graph theory, drug discovery, quantum neural networks, ai systems design  
 
 ## about me
-- i nerd out on pretty much any niche topic that i find interesting, whether that is about the formation of neutron stars or  
+- i nerd out on pretty much any niche topic that i find interesting, whether that is diffusion models or the formation of neutron stars
 - portfolio (i'm currently scraping it to make something more authentic): https://itsamrithaa.github.io/
 
 ## tech stack
