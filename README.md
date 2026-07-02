@@ -1,5 +1,5 @@
 # hi, i'm amrithaa ⋆‧°𓏲ּ𝄢
-my recent projects looks into: mechanistic interpretability, graph theory, drug discovery, quantum neural networks, ai systems design  
+my recent projects look into: mechanistic interpretability, graph theory, drug discovery, quantum neural networks, ai systems design  
 
 ### about me
 - i nerd out on pretty much any niche topic that i find interesting, whether that is diffusion models or the formation of neutron stars
